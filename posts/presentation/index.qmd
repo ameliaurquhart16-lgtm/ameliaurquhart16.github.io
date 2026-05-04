@@ -6,6 +6,182 @@ css: styles.css
 filters:
   - ../../date.lua
 ---
+---
+title: "Cells: Structure, Function, and Significance"
+format: 
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    toc: true
+---
+
+## What Are Cells?
+
+Cells are the **basic structural and functional units of life**.  
+All living organisms—unicellular or multicellular—are composed of cells.
+
+> “The cell is the fundamental unit of life.”  
+> — *Tortora & Derrickson, Principles of Anatomy & Physiology*
+
+---
+
+## Cell Theory
+
+### Developed from work by Schleiden, Schwann, and Virchow
+
+- All living things are composed of cells  
+- Cells are the basic units of structure and function  
+- All cells arise from pre‑existing cells  
+
+**Source:** *Mader, Human Biology; Alberts et al., Molecular Biology of the Cell*
+
+---
+
+## Two Major Cell Types
+
+### Prokaryotic Cells
+- No nucleus  
+- No membrane‑bound organelles  
+- Smaller and simpler  
+- Example: bacteria  
+
+### Eukaryotic Cells
+- Have a nucleus  
+- Contain membrane‑bound organelles  
+- Found in plants, animals, fungi, protists  
+
+**Source:** *Campbell Biology, 12th ed.*
+
+---
+
+## The Plasma Membrane
+
+- Selectively permeable barrier  
+- Composed of a **phospholipid bilayer** with embedded proteins  
+- Maintains homeostasis  
+- Responsible for transport, communication, and structural integrity  
+
+**Source:** *Tortora & Derrickson, Principles of Anatomy & Physiology*
+
+---
+
+## Cytoplasm
+
+- Region between the plasma membrane and nucleus  
+- Contains:
+  - **Cytosol** (fluid)
+  - **Organelles** (functional structures)
+
+**Source:** *Marieb & Hoehn, Human Anatomy & Physiology*
+
+---
+
+## The Nucleus
+
+- Control center of the cell  
+- Contains DNA organized into chromosomes  
+- Surrounded by nuclear envelope  
+- Site of transcription (DNA → RNA)
+
+**Source:** *Alberts et al., Molecular Biology of the Cell*
+
+---
+
+## Major Organelles
+
+### Mitochondria
+- Produce ATP through cellular respiration  
+- Contain their own DNA  
+
+### Endoplasmic Reticulum
+- Rough ER: protein synthesis  
+- Smooth ER: lipid synthesis, detoxification  
+
+### Golgi Apparatus
+- Modifies, sorts, and packages proteins  
+
+### Lysosomes
+- Digestive enzymes for waste removal  
+
+**Source:** *Marieb & Hoehn; Alberts et al.*
+
+---
+
+## The Cytoskeleton
+
+- Network of protein filaments  
+- Provides structure, movement, and transport  
+- Components:
+  - Microfilaments  
+  - Intermediate filaments  
+  - Microtubules  
+
+**Source:** *Lodish et al., Molecular Cell Biology*
+
+---
+
+## Cell Transport Mechanisms
+
+### Passive Transport
+- No energy required  
+- Diffusion, osmosis, facilitated diffusion  
+
+### Active Transport
+- Requires ATP  
+- Moves substances against concentration gradient  
+
+**Source:** *Tortora & Derrickson*
+
+---
+
+## Cell Communication
+
+- Cells communicate via:
+  - Chemical signals (hormones, neurotransmitters)  
+  - Receptors on plasma membrane  
+  - Signal transduction pathways  
+
+**Source:** *Nature Reviews Molecular Cell Biology*
+
+---
+
+## Cell Division
+
+### Mitosis
+- Produces two identical daughter cells  
+- Used for growth and repair  
+
+### Meiosis
+- Produces gametes  
+- Reduces chromosome number by half  
+
+**Source:** *Campbell Biology*
+
+---
+
+## Why Cells Matter in Anatomy & Physiology
+
+- All tissues and organs are built from cells  
+- Cellular dysfunction leads to disease  
+  - Example: mitochondrial disorders  
+  - Example: cancer (uncontrolled cell division)
+
+**Source:** *Journal of Cell Biology; New England Journal of Medicine*
+
+---
+
+## References
+
+- Alberts, B. *Molecular Biology of the Cell*. Garland Science.  
+- Marieb, E., & Hoehn, K. *Human Anatomy & Physiology*. Pearson.  
+- Tortora, G., & Derrickson, B. *Principles of Anatomy & Physiology*. Wiley.  
+- Campbell, N. *Campbell Biology*. Pearson.  
+- Lodish, H. *Molecular Cell Biology*. W.H. Freeman.  
+- *Journal of Cell Biology*, Rockefeller University Press.  
+- *Nature Reviews Molecular Cell Biology*, Springer Nature.
+
+---
 
 # Blog and presentation setup instructions
 
